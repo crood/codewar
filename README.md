@@ -1,0 +1,2 @@
+# codewar
+general purpose code
